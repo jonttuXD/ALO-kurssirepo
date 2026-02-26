@@ -9,6 +9,7 @@ Esityksen maksimipituus 10mins.
 | Ryhmä               | Ryhmän jäsenet                     |
 |---------------------|------------------------------------|
 | ryhmän nimi         | ryhmän, jäsenten, git-hub tunnarit |
+| ryhmä47             | AarniLeh, LukkaJo, SairainE        |
 | ryhmä xyz           | FransJuhaniHietaniva, mrduckos, jopehe |
 | Emu                 | AslaAsla, HenryLaine, jonttuXD     |
 | Ryhmä 3             | roko02, Eme-desing                 |
@@ -23,6 +24,9 @@ Esityksen maksimipituus 10mins.
 | asdf                | netlaitinet                            |
 | x           | lassijar, KukkonenJussi                |
 | ta			| VilleR-GitHub, LeeviAsikainen, timbzi	|
+| K- Ryhmä			| Lukavarin, KurriRyka	|
+| JAE                 | Jarno M, Antti E, Eero V           |
+| PS1 Emu             | TheBoniestOne |
 
 ### Esityspäivät:
 
@@ -35,6 +39,7 @@ Esityksen maksimipituus 10mins.
 | Ryhmä               | Ohjelma               | Kuvaus                                               | Esityspäivä |
 |---------------------|-----------------------|------------------------------------------------------|-------------|
 | ryhmän nimi         | ohjelman nimi ja linkki git-repon kansioon | lyhyt kuvaus                    | esityspäivän kirjain |
+| ryhmä47             | VirtualBox (https://github.com/VirtualBox) | Yleiskäyttöinen virtualisointiohjelmisto             | V |
 | ryhmä xyz           | OpenTTD https://github.com/OpenTTD/OpenTTD | Avoimen lähdekoodin simulaatiopeli | C |
 | Emu                 | Dolphin [Dolphin](Dolphin/README.md)       | Emulaattori GameCube- ja Wii-peleille | C                    |
 | Ryhmä 3             | [Chocolatey](Chocolatey/README.md)         | Paketinhallintatyökalu (package manager) Windowsille | B |
@@ -49,4 +54,6 @@ Esityksen maksimipituus 10mins.
 | asdf                | Portage                                    | Paketinhallintatyökalu                                                                              | A                    |
 | x                   | [Brave](Brave/README.md)                   | Brave on yksityisyyttä korostava verkkoselain, jonka tarkoitus on tarjota nopea ja turvallinen selauskokemus estämällä seuranta ja mainokset oletusarvoisesti. | V                    |
 | ta		      | Excalidraw Whiteboard [Excalidraw](https://github.com/excalidraw/excalidraw)		   | Virtuaalinen valkotaulusovellus	|	V	|
-
+| K- Ryhmä            | PhET simulaatiot: https://github.com/phetsims           | Simulaatio alusta eri luonnontieteille | C |
+| JAE                 | Godot ((https://github.com/godotengine/godot)) | Pelimoottori | D  |
+| PS1 Emu             | DuckStation [DuckStation](DuckStation/README.md) | Sony PlayStation konsolin emulaattori | V | 
